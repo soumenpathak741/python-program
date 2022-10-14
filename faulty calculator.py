@@ -29,7 +29,7 @@ elif num3=='/':
 elif num3=='*':
     Mul=num1*num2
     print(Mul)
-elif num=='%':
+elif num3=='%':
      Mod=num1%num2
      print(Mod)
 else:
